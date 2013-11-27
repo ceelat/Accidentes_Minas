@@ -1,0 +1,40 @@
+{
+  "bounds": [
+    -88.8574,
+    -8.6679,
+    -55.6787,
+    17.6859
+  ],
+  "center": [
+    -73.6084,
+    5.266,
+    5
+  ],
+  "format": "png",
+  "interactivity": {
+    "fields": []
+  },
+  "minzoom": 5,
+  "maxzoom": 9,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "point",
+      "id": "minas",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/robin_ceelat/Documents/CURSO_GEOESTADISTICA/Practica6/Data/Accidentesminas_bog.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "name": "minas"
+    }
+  ],
+  "name": "Accidentes_Minas",
+  "description": "Accidentes de Minas Antipersonsales",
+  "attribution": "",
+  "legend": "<img src='data:image/png;base64,\niVBORw0KGgoAAAANSUhEUgAAAAkAAAAICAIAAAHTqHJ0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMJJREFUeNpi/P//PwMDA0AAMazX1wcIIIan+/efYWAACgAEEIj16f59BiDvJAMDQAAxAJmHGECcTWBZJl4FhVvMzJ8ZGN6wswP1AgQQSGyXu/vhxEQgg3EmA4MxSJDhkbo6Ey8DFLy+eZPJcOrUZwwMDxgYgs+fBwgwkJ7rU6fOYWYGmrmHgWENA8M8dvY358+DjADaftDRUY0BAf4yMFxgYEiD2A20+BuS3EsGBlF1dag7gACoG+gaoH+ADgK6HCIIAIMUXL1+8ODyAAAAAElFTkSuQmCC'\n/>\nMinas antipersonales"
+}
