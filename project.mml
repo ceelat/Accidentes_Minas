@@ -33,6 +33,8 @@
       "name": "minas"
     }
   ],
+  "scale": 1,
+  "metatile": 2,
   "name": "Accidentes_Minas",
   "description": "Accidentes de Minas Antipersonsales",
   "attribution": "",

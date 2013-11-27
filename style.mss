@@ -2,7 +2,7 @@ Map {
 }
 
 #minas {
-  marker-fill:#D40D12;
+  marker-fill:#c3c;
   marker-line-color:#94090D;
   marker-line-width:1px;
   marker-allow-overlap:true;
